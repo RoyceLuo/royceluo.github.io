@@ -8,6 +8,7 @@
   --color-accent-soft: #e3ecdf;
   --color-accent-2: #c89090;
   --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-serif: "Playfair Display", Georgia, "Times New Roman", serif;
   --content-max-width: 720px;
   --sidebar-width: 220px;
 }
@@ -164,68 +165,98 @@ a:hover { text-decoration: underline; }
   padding-top: 0;
 }
 
-/* Hero intro + card sections (used on the About page) */
+/* Full-screen home page: hero + about sections */
 
-.hero {
+.fullscreen-section {
+  min-height: 100vh;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  padding: 3rem 6vw;
+}
+
+.hero-section {
+  background: #3b2417;
+  color: #f7ecdd;
+  justify-content: center;
+}
+
+.hero-inner {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 2rem;
+  gap: 3rem;
   flex-wrap: wrap;
-  margin-bottom: 1rem;
+  max-width: 1100px;
+  width: 100%;
 }
 
-.hero-eyebrow {
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  font-size: 0.8rem;
-  font-weight: 700;
-  color: var(--color-accent);
-  margin: 0 0 0.5rem;
+.hero-text {
+  flex: 1 1 320px;
 }
 
 .hero-name {
-  font-size: 2.5rem;
-  line-height: 1.1;
-  margin: 0 0 0.75rem;
+  font-family: var(--font-serif);
+  font-size: clamp(2.5rem, 6vw, 4.5rem);
+  line-height: 1.05;
+  margin: 0 0 1rem;
 }
 
 .hero-name-cn {
   font-family: "Liu Jian Mao Cao", cursive;
-  font-size: 1.5em;
+  font-size: 0.55em;
   font-weight: normal;
-  color: var(--color-accent);
-  margin-left: 0.35em;
+  color: #d9a9a9;
+  margin-left: 0.3em;
+  display: inline-block;
 }
 
 .hero-tagline {
-  font-size: 1.1rem;
-  color: var(--color-muted);
+  font-size: 1.2rem;
+  color: #d8c3ab;
   max-width: 42ch;
   margin: 0;
 }
 
 .hero-photo {
-  width: 160px;
-  height: 160px;
-  flex-shrink: 0;
-  border-radius: 50%;
-  background: var(--color-accent-soft);
-  border: 2px solid var(--color-border);
+  flex: 0 0 auto;
+  width: min(36vw, 380px);
+  aspect-ratio: 3 / 4;
+  border-radius: 20px;
   overflow: hidden;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: var(--color-muted);
-  font-size: 0.8rem;
-  text-align: center;
-  padding: 0.5rem;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.35);
 }
 
 .hero-photo img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  display: block;
+}
+
+.about-section {
+  background-size: cover;
+  background-position: center;
+  justify-content: flex-start;
+}
+
+.about-overlay {
+  background: rgba(251, 247, 236, 0.9);
+  backdrop-filter: blur(3px);
+  border-radius: 16px;
+  padding: 2.5rem 3rem;
+  max-width: 480px;
+}
+
+.about-overlay h2 {
+  margin-top: 0;
+  font-size: 1.6rem;
+}
+
+.home-body {
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  padding: 3rem 1.5rem 4rem;
 }
 
 .info-card {
@@ -332,12 +363,27 @@ a:hover { text-decoration: underline; }
     text-decoration: underline;
   }
 
-  .hero {
+  .fullscreen-section {
+    padding: 3rem 1.25rem;
+  }
+
+  .hero-inner {
     flex-direction: column-reverse;
     text-align: center;
   }
 
+  .hero-photo {
+    width: min(70vw, 320px);
+    aspect-ratio: 1;
+  }
+
   .hero-tagline {
     max-width: none;
+    margin: 0 auto;
+  }
+
+  .about-overlay {
+    max-width: 100%;
+    padding: 2rem;
   }
 }

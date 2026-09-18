@@ -6,7 +6,7 @@
   <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Liu+Jian+Mao+Cao&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Liu+Jian+Mao+Cao&family=Playfair+Display:wght@600;700&display=swap">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   {% feed_meta %}
 </head>
@@ -18,9 +18,13 @@
     </div>
   </header>
 
+  {% if page.layout == "home" %}
+    {{ content }}
+  {% else %}
   <div class="site-content">
     {{ content }}
   </div>
+  {% endif %}
 
   <footer class="site-footer">
     <p>&copy; {{ site.time | date: '%Y' }} {{ site.author | default: site.title }}</p>
