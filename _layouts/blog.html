@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div class="page-wrapper">
+  <aside class="toc-sidebar" id="toc-sidebar">
+    <div class="toc-sticky">
+      <p class="toc-title">Recent Posts</p>
+      <nav class="recent-posts">
+        {% for post in site.posts limit:5 %}<a href="{{ post.url | relative_url }}">{{ post.title }}</a>{% endfor %}
+      </nav>
+
+      <p class="toc-title toc-title--spaced">Archive</p>
+      <nav class="archive-years">
+        {% assign years = site.posts | group_by_exp:"post","post.date | date: '%Y'" %}
+        {% for year in years %}<a href="#" class="year-link" data-year="{{ year.name }}">{{ year.name }} <span class="year-count">({{ year.items | size }})</span></a>{% endfor %}
+      </nav>
+    </div>
+  </aside>
+
+  <main class="blog-content" id="blog-main">
+    {{ content }}
+  </main>
+</div>

@@ -21,6 +21,7 @@ Add a file to [`_posts/`](_posts/) named `YYYY-MM-DD-a-short-title.md`:
 layout: post
 title: "Your Post Title"
 date: 2026-01-15
+tags: [tag-one, tag-two]
 ---
 
 ## First Section
@@ -28,7 +29,7 @@ date: 2026-01-15
 Your writing here.
 ```
 
-It shows up on the [Blog](blog/index.md) page automatically, newest first, and gets its own sidebar TOC from its `##`/`###` headings.
+It shows up on the [Blog](blog/index.md) page automatically (newest first), searchable by keyword, filterable by clicking a tag or an archive year, and gets its own sidebar TOC from its `##`/`###` headings. The `tags` field is optional; the search box also matches on the post's title and its auto-generated excerpt (its first paragraph).
 
 **Adding your photo to the About page:**
 Put the image file in `assets/images/` (create the folder), then in [`index.md`](index.md) replace the `<!-- ... -->` comment inside `.hero-photo` with:
