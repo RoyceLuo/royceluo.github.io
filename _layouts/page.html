@@ -9,7 +9,7 @@ layout: default
     </div>
   </aside>
 
-  <main class="page-content" id="page-content">
+  <main class="page-content{% if page.wide %} page-content--wide{% endif %}" id="page-content">
     {% unless page.hide_title %}<h1>{{ page.title }}</h1>{% endunless %}
     {{ content }}
   </main>

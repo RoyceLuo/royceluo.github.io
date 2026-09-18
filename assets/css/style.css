@@ -148,6 +148,11 @@ a:hover { text-decoration: underline; }
   min-width: 0;
 }
 
+.page-content--wide {
+  max-width: none;
+  width: 100%;
+}
+
 .page-content h1 {
   margin-top: 0;
   font-size: 2rem;
@@ -245,6 +250,11 @@ a:hover { text-decoration: underline; }
   margin: 0 0 1rem;
 }
 
+.about-text p {
+  font-size: 1.3rem;
+  line-height: 1.7;
+}
+
 .hero-photo,
 .about-photo {
   flex: 0 0 auto;
@@ -308,6 +318,22 @@ a:hover { text-decoration: underline; }
   min-width: 7rem;
 }
 
+/* Scholar page: 4-up grid of sections */
+
+.scholar-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.scholar-card {
+  background: var(--color-card-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  padding: 1.75rem 2rem;
+}
+
 /* Footer */
 
 .site-footer {
@@ -354,6 +380,10 @@ a:hover { text-decoration: underline; }
   .toc-link.active {
     border-left: none;
     text-decoration: underline;
+  }
+
+  .scholar-grid {
+    grid-template-columns: 1fr;
   }
 
   .fullscreen-section {
