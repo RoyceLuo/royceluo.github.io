@@ -318,20 +318,76 @@ a:hover { text-decoration: underline; }
   min-width: 7rem;
 }
 
-/* Scholar page: 4-up grid of sections */
+/* Scholar page: single-column sections on the page background */
 
-.scholar-grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 1.5rem;
+.scholar-sections {
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
   margin-top: 1.5rem;
 }
 
-.scholar-card {
-  background: var(--color-card-bg);
-  border: 1px solid var(--color-border);
+.scholar-section h2 {
+  font-size: 1.6rem;
+}
+
+.plate-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.plate {
+  aspect-ratio: 4 / 3;
+  border: 2px dashed var(--color-border);
   border-radius: 12px;
-  padding: 1.75rem 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-muted);
+  font-size: 0.9rem;
+  text-align: center;
+  padding: 1rem;
+}
+
+.education-layout {
+  display: flex;
+  align-items: flex-start;
+  gap: 3rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.education-list {
+  flex: 1 1 320px;
+}
+
+.education-media {
+  flex: 0 0 auto;
+  width: min(36vw, 360px);
+}
+
+.education-media img {
+  width: 100%;
+  border-radius: 12px;
+  display: block;
+}
+
+.cv-button {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.6rem 1.25rem;
+  background: var(--color-accent);
+  color: var(--color-bg);
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.cv-button:hover {
+  text-decoration: none;
+  opacity: 0.9;
 }
 
 /* Footer */
@@ -382,8 +438,16 @@ a:hover { text-decoration: underline; }
     text-decoration: underline;
   }
 
-  .scholar-grid {
+  .plate-grid {
     grid-template-columns: 1fr;
+  }
+
+  .education-layout {
+    flex-direction: column;
+  }
+
+  .education-media {
+    width: 100%;
   }
 
   .fullscreen-section {
