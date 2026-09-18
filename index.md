@@ -8,7 +8,7 @@ hide_title: true
 <div class="hero">
   <div class="hero-text">
     <!--<p class="hero-eyebrow">Hi, I'm</p> -->
-    <h1 class="hero-name">Royce Luo</h1>
+    <h1 class="hero-name">Royce Luo <span class="hero-name-cn">罗逸芝</span></h1>
     <p class="hero-tagline">A short one-line tagline about who you are and what you work on.</p>
   </div>
   <div class="hero-photo">

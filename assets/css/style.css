@@ -190,6 +190,14 @@ a:hover { text-decoration: underline; }
   margin: 0 0 0.75rem;
 }
 
+.hero-name-cn {
+  font-family: "Ma Shan Zheng", cursive;
+  font-size: 1.5em;
+  font-weight: normal;
+  color: var(--color-accent);
+  margin-left: 0.35em;
+}
+
 .hero-tagline {
   font-size: 1.1rem;
   color: var(--color-muted);
