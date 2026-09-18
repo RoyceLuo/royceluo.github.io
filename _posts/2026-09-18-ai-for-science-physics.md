@@ -2,7 +2,7 @@
 layout: post
 title: "AI for science/physics"
 date: 2026-09-18
-tags: [AI] [physics]
+tags: [AI, physics]
 ---
 
 ## AI for science blog
