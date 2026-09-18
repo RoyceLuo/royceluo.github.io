@@ -4,7 +4,7 @@
   --color-text: #3d2b1f;
   --color-muted: #69594e;
   --color-border: #e3d8c3;
-  --color-accent: #16e056;
+  --color-accent: #4e6e58;
   --color-accent-soft: #e3ecdf;
   --color-accent-2: #c89090;
   --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -179,7 +179,6 @@ a:hover { text-decoration: underline; }
   background: #3b2417;
   color: #f7ecdd;
   justify-content: center;
-  padding: 5rem 10vw;
 }
 
 .hero-inner {
@@ -198,15 +197,15 @@ a:hover { text-decoration: underline; }
 
 .hero-name {
   font-family: var(--font-serif);
-  font-size: clamp(3rem, 8vw, 6rem);
+  font-size: clamp(2.5rem, 6vw, 4.5rem);
   line-height: 1.05;
-  margin: 0 0 1.25rem;
+  margin: 0 0 1rem;
 }
 
 .hero-name-cn {
   font-family: "Liu Jian Mao Cao", cursive;
   font-weight: normal;
-  color: #f0b429;
+  color: #d9a9a9;
   margin-left: 0.3em;
   display: inline-block;
 }
@@ -214,12 +213,12 @@ a:hover { text-decoration: underline; }
 .hero-quote {
   font-family: var(--font-serif);
   font-style: italic;
-  font-size: 1.4rem;
-  color: #f0b429;
+  font-size: 1.3rem;
+  color: #d8c3ab;
   max-width: 42ch;
   margin: 0;
   padding-left: 1rem;
-  border-left: 3px solid #f0b429;
+  border-left: 3px solid #d9a9a9;
 }
 
 .about-section {
