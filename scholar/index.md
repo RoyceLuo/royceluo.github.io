@@ -28,7 +28,6 @@ I study quantum acoustics and optomechanics — building high-coherence phononic
 
 <div class="education-layout">
   <div class="education-list" markdown="1">
-
   - **Postdoc**, Applied Physics, Stanford University, 2025–present
   - **Ph.D.**, Applied Physics, Yale University, 2017–2025 
   - **M.Sc.**, Chemistry, University of Tokyo, 2015–2017
@@ -49,18 +48,20 @@ I study quantum acoustics and optomechanics — building high-coherence phononic
 
 ### Journal Articles
 
-1. H. H. Diamandi, **Y. Luo**, D. Mason, et al., "Optomechanical control of long-lived bulk acoustic phonons in the quantum regime," *Nature Physics*, vol. 21, no. 9, pp. 1482–1488, 2025.
-2. **Y. Luo**, H. H. Diamandi, H. Li, et al., "Lifetime-limited gigahertz-frequency mechanical oscillators with millisecond coherence times," *arXiv preprint arXiv:2504.07523*, 2025.
-3. I. Kudelin, W. Groman, Q.-X. Ji, et al., "Photonic chip-based low-noise microwave oscillator," *Nature*, vol. 627, no. 8004, pp. 534–539, 2024.
-4. N. Jin, C. A. McLemore, D. Mason, et al., "Micro-fabricated mirrors with finesse exceeding one million," *Optica*, vol. 9, no. 9, pp. 965–970, 2022.
-5. C. A. McLemore, N. Jin, M. L. Kelleher, et al., "Miniaturizing ultrastable electromagnetic oscillators: Sub-10⁻¹⁴ frequency instability from a centimeter-scale Fabry-Pérot cavity," *Physical Review Applied*, vol. 18, no. 5, p. 054054, 2022.
-6. K. Hiramatsu, T. Ideguchi, Y. Yonamine, et al., "High-throughput label-free molecular fingerprinting flow cytometry," *Science Advances*, vol. 5, no. 1, eaau0241, 2019.
-7. K. Hiramatsu, **Y. Luo**, T. Ideguchi, and K. Goda, "Rapid-scan Fourier-transform coherent anti-Stokes Raman scattering spectroscopy with heterodyne detection," *Optics Letters*, vol. 42, no. 21, pp. 4335–4338, 2017.
+1. **Y. Luo**, H. H. Diamandi, H. Li, R. Bi, D. Mason, T. Yoon, X. Guo, H. Tang, et al., "Millisecond coherence times in gigahertz-frequency mechanical oscillators," *Nature Physics*, pp. 1–7, 2026.
+2. H. H. Diamandi, **Y. Luo**, D. Mason, T. B. Kanmaz, S. Ghosh, M. Pavlovich, T. Yoon, R. Behunin, S. Puri, J. G. Harris, et al., "Optomechanical control of long-lived bulk acoustic phonons in the quantum regime," *Nature Physics*, vol. 21, no. 9, pp. 1482–1488, 2025.
+3. I. Kudelin, W. Groman, Q.-X. Ji, J. Guo, M. L. Kelleher, D. Lee, T. Nakamura, et al., "Photonic chip-based low-noise microwave oscillator," *Nature*, vol. 627, no. 8004, pp. 534–539, 2024.
+4. C. A. McLemore, N. Jin, M. L. Kelleher, **Y. Luo**, D. Lee, Y. Liu, T. Nakamura, et al., "Fiber-coupled 2 mL vacuum-gap Fabry–Pérot reference cavity for portable laser stabilization," *Optics Letters*, vol. 49, no. 16, pp. 4737–4740, 2024.
+5. N. Jin, C. A. McLemore, D. Mason, J. Hendrie, **Y. Luo**, M. L. Kelleher, P. Kharel, et al., "Micro-fabricated mirrors with finesse exceeding one million," *Optica*, vol. 9, no. 9, pp. 965–970, 2022.
+6. C. A. McLemore, N. Jin, M. L. Kelleher, J. Hendrie, D. Mason, **Y. Luo**, D. Lee, et al., "Miniaturizing ultrastable electromagnetic oscillators: Sub-10⁻¹⁴ frequency instability from a centimeter-scale Fabry-Pérot cavity," *Physical Review Applied*, vol. 18, no. 5, p. 054054, 2022.
+7. K. Hiramatsu, T. Ideguchi, Y. Yonamine, S. Lee, **Y. Luo**, K. Hashimoto, T. Ito, et al., "High-throughput label-free molecular fingerprinting flow cytometry," *Science Advances*, vol. 5, no. 1, eaau0241, 2019.
+8. K. Hiramatsu, **Y. Luo**, T. Ideguchi, and K. Goda, "Rapid-scan Fourier-transform coherent anti-Stokes Raman scattering spectroscopy with heterodyne detection," *Optics Letters*, vol. 42, no. 21, pp. 4335–4338, 2017.
 
 ### Conference Papers
 
-1. **Y. Luo**, T. Yoon, D. Mason, et al., "Studies of high-Q phononic resonator for quantum acoustic applications," in *APS March Meeting Abstracts*, vol. 2023, 2023, Q66.006.
-2. **Y. Luo**, D. Mason, J. P. Hendrie, et al., "Numerically accelerated development cycle for ultra-high finesse micro-fabricated resonators," in *CLEO: Science and Innovations*, Optica Publishing Group, 2021, JW1A-17.
+1. **Y. Luo**, T. Yoon, D. Mason, N. Jin, P. Kharel, R. Schoelkopf, and P. Rakich, "Studies of high-Q phononic resonator for quantum acoustic applications," in *APS March Meeting Abstracts*, vol. 2023, 2023, Q66.006.
+2. A. J. Pillai, Y. Patil, **Y. Luo**, P. Rakich, and J. G. Harris, "Cavity optomechanics in solid helium and solid neon," in *APS March Meeting Abstracts*, vol. 2023, 2023, Q66.002.
+3. **Y. Luo**, D. Mason, J. Hendrie, N. Jin, C. A. McLemore, P. Kharel, M. L. Kelleher, et al., "Numerically accelerated development cycle for ultra-high finesse micro-fabricated resonators," in *CLEO: Science and Innovations*, Optica Publishing Group, 2021, JW1A-17.
 
 </div>
 

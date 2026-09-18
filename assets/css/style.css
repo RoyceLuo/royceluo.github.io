@@ -324,7 +324,6 @@ a:hover { text-decoration: underline; }
   display: flex;
   flex-direction: column;
   gap: 2.5rem;
-  margin-top: 1.5rem;
 }
 
 .scholar-section h2 {
@@ -365,7 +364,7 @@ a:hover { text-decoration: underline; }
 
 .education-media {
   flex: 0 0 auto;
-  width: min(36vw, 360px);
+  width: min(22vw, 220px);
 }
 
 .education-media img {
