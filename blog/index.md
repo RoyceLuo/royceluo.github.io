@@ -6,10 +6,6 @@ permalink: /blog/
 hide_title: true
 ---
 
-<div class="blog-search">
-  <input type="search" id="blog-search-input" placeholder="Search posts by keyword…" aria-label="Search posts">
-</div>
-
 <div class="post-cards" id="post-list">
 {% for post in site.posts %}
   {% assign tag_text = post.tags | join: " " %}

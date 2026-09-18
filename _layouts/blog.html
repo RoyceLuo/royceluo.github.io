@@ -4,6 +4,10 @@ layout: default
 <div class="page-wrapper">
   <aside class="toc-sidebar" id="toc-sidebar">
     <div class="toc-sticky">
+      <div class="blog-search">
+        <input type="search" id="blog-search-input" placeholder="Search posts by keyword…" aria-label="Search posts">
+      </div>
+
       <p class="toc-title">Recent Posts</p>
       <nav class="recent-posts">
         {% for post in site.posts limit:5 %}<a href="{{ post.url | relative_url }}">{{ post.title }}</a>{% endfor %}
