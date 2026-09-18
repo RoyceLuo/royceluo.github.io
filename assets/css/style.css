@@ -197,7 +197,7 @@ a:hover { text-decoration: underline; }
 
 .hero-name {
   font-family: var(--font-serif);
-  font-size: clamp(3rem, 7vw, 5.5rem);
+  font-size: clamp(2.5rem, 6vw, 4.5rem);
   line-height: 1.05;
   margin: 0 0 1rem;
 }
@@ -213,7 +213,7 @@ a:hover { text-decoration: underline; }
 .hero-quote {
   font-family: var(--font-serif);
   font-style: italic;
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   color: #d8c3ab;
   max-width: 42ch;
   margin: 0;
