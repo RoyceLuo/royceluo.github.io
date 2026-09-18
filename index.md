@@ -35,7 +35,7 @@ My name is Royce or 罗逸芝 and welcome to my page!​
 
 I'm an experimental physicist at Stanford University. My research interests include quantum mechanics, quantum open systems, nonlinear optics and material science. Recently, I find this AI thing quite annoying and try to get a better understanding about it. 
 
-I was born and raised up in China. I lived in Tokyo for two years before moving to the US for graduate studies. When workingnot doing physics, I enjoy music & poetry. I'm also a sports fan and play tennis & badminton. 
+I was born and raised up in China. I lived in Tokyo for two years before moving to the US for graduate studies. When not working, I enjoy music & poetry. I'm also a sports fan and play tennis & badminton. 
 
 </div>
   </div>
