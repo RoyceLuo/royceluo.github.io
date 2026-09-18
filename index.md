@@ -14,7 +14,7 @@ hide_title: true
   <div class="hero-photo">
     <!-- Once you have a photo, drop the file in assets/images/ and replace this comment with:
     <img src="{{ '/assets/images/your-photo.jpg' | relative_url }}" alt="Royce Luo"> -->
-    <img src="{{ '/assets/images/your-photo.jpg' | relative_url }}" alt="Royce Luo">
+    <img src="{{ '/assets/images/DanBoating_2023.jpg' | relative_url }}" alt="Royce Luo">
   </div>
 </div>
 
