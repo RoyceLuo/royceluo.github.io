@@ -8,8 +8,8 @@ wide: true
 ---
 
 <blockquote class="quote-block page-quote">
-  <p class="quote-text">Your favorite quote goes here.</p>
-  <footer class="quote-source">— Add source here</footer>
+  <p class="quote-text">The world-enforced distinction between the practical and the scientific worker is utterly futile, and the whole experience of modern times has demonstrated its utter worthlessness.</p>
+  <footer class="quote-source">— William Barton Rogers, founder and 1st president of MIT</footer>
 </blockquote>
 
 <div class="scholar-sections">
@@ -33,7 +33,7 @@ I study quantum acoustics and optomechanics — building high-coherence phononic
 
 <div class="education-layout">
   <div class="education-list" markdown="1">
-  
+
   - **Ph.D.**, Applied Physics, Yale University 
 
   - **M.Sc.**, Chemistry, University of Tokyo
