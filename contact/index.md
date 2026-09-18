@@ -3,6 +3,8 @@ layout: page
 title: Contact
 description: How to get in touch
 permalink: /contact/
+hide_title: true
+wide: true
 ---
 
 ## Get in Touch
