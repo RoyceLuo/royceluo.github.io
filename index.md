@@ -7,7 +7,7 @@ description: About Royce Luo
 <div class="fullscreen-section hero-section">
   <div class="hero-inner">
     <div class="hero-text">
-      <h1 class="hero-name">Royce Luo <span class="hero-name-cn">罗逸芝</span></h1>
+      <h1 class="hero-name">Royce Y. Luo <span class="hero-name-cn">罗逸芝</span></h1>
       <blockquote class="hero-quote">The purity of heart is to will one thing!</blockquote>
     </div>
     <div class="hero-photo">
@@ -25,7 +25,7 @@ description: About Royce Luo
 
 ## About Me
 
-My name is Royce and welcome to my website!​
+My name is Royce or Yizhi Luo and wel come to my page!​
 
 I'm an experimental physicist at Stanford University. My research interests include quantum mechanics, quantum open systems, nonlinear optics and material science. Recently, I find this AI thing quite annoying and try to get a better understanding about it. 
 

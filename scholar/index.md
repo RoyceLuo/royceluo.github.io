@@ -28,10 +28,13 @@ I study quantum acoustics and optomechanics — building high-coherence phononic
 
 <div class="education-layout">
   <div class="education-list" markdown="1">
-  - **Postdoc**, Applied Physics, Stanford University, 2025–present
-  - **Ph.D.**, Applied Physics, Yale University, 2017–2025 
-  - **M.Sc.**, Chemistry, University of Tokyo, 2015–2017
-  - **B.S.**, Optical Engineering, Zhejiang University, 2011–2015
+  
+  - **Ph.D.**, Applied Physics, Yale University 
+
+  - **M.Sc.**, Chemistry, University of Tokyo
+
+  - **B.S.**, Optical Engineering, Zhejiang University
+
   </div>
 
   <div class="education-media">
