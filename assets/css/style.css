@@ -58,7 +58,7 @@ a:hover { text-decoration: underline; }
 
 .site-title {
   font-weight: 700;
-  font-size: 1.6rem;
+  font-size: 1.4rem;
   color: var(--color-text);
 }
 .site-title:hover { text-decoration: none; }

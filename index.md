@@ -25,11 +25,11 @@ description: About Royce Luo
 
 ## About Me
 
-Hi I'm Royce, welcome to my website!​
+My name is Royce and welcome to my website!​
 
-I'm an experimental physicist in the Department of Applied Physics at Yale University. Generally speaking, my research interest lies in the cross-field of laser optics, phonon physics, and quantum hybrid systems.   
+I'm an experimental physicist at Stanford University. My research interests include quantum mechanics, quantum open systems, nonlinear optics and material science. Recently, I find this AI thing quite annoying and try to get a better understanding about it. 
 
-I was born and grew up in China. I lived in Tokyo for two years before moving to the US as a Yale PhD student in Applied Physics. When I'm not doing physics, I enjoy classical music and Argentine tango, I'm also a long-time badminton player. 
+I was born and raised up in China. I lived in Tokyo for two years before moving to the US for graduate studies. When workingnot doing physics, I enjoy music & poetry. I'm also a sports fan and play tennis & badminton. 
 
 </div>
   </div>
