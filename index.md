@@ -8,7 +8,7 @@ description: About Royce Luo
   <div class="hero-inner">
     <div class="hero-text">
       <h1 class="hero-name">Royce Luo <span class="hero-name-cn">罗逸芝</span></h1>
-      <blockquote class="hero-quote">Your favorite quote goes here.</blockquote>
+      <blockquote class="hero-quote">The purity of heart is to will one thing!</blockquote>
     </div>
     <div class="hero-photo">
       <img src="{{ '/assets/images/DanBoating_2023.jpeg' | relative_url }}" alt="Royce Luo">
@@ -25,7 +25,11 @@ description: About Royce Luo
 
 ## About Me
 
-Write a few paragraphs here.
+Hi I'm Royce, welcome to my website!​
+
+I'm an experimental physicist in the Department of Applied Physics at Yale University. Generally speaking, my research interest lies in the cross-field of laser optics, phonon physics, and quantum hybrid systems.   
+
+I was born and grew up in China. I lived in Tokyo for two years before moving to the US as a Yale PhD student in Applied Physics. When I'm not doing physics, I enjoy classical music and Argentine tango, I'm also a long-time badminton player. 
 
 </div>
   </div>
