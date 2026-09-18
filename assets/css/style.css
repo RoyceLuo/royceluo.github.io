@@ -264,19 +264,7 @@ a:hover { text-decoration: underline; }
 .page-quote {
   max-width: none;
   width: 100%;
-  background: #3b2417;
-  padding: 2.5rem 2rem;
-  border-radius: 12px;
   margin-bottom: 2.5rem;
-  box-sizing: border-box;
-}
-
-.page-quote .quote-text {
-  color: #f7ecdd;
-}
-
-.page-quote .quote-source {
-  color: #d8c3ab;
 }
 
 .about-section {
