@@ -29,12 +29,12 @@ I study quantum acoustics and optomechanics — building high-coherence phononic
 <div class="education-layout">
   <div class="education-list" markdown="1">
 
-- **Postdoc**, Applied Physics, Stanford University, 2025–present — Advisor: Amir Safavi-Naeini
-- **Ph.D.**, Applied Physics, Yale University, 2017–2025, Advisor: Peter T. Rakich
-- **M.Sc.**, Chemistry, University of Tokyo, 2015–2017, Advisor: Keisuke Goda
-- **B.S.**, Optical Engineering, Zhejiang University, 2011–2015, Advisor: Xiaogang Peng
-
+  - **Postdoc**, Applied Physics, Stanford University, 2025–present
+  - **Ph.D.**, Applied Physics, Yale University, 2017–2025 
+  - **M.Sc.**, Chemistry, University of Tokyo, 2015–2017
+  - **B.S.**, Optical Engineering, Zhejiang University, 2011–2015
   </div>
+
   <div class="education-media">
     <img src="{{ '/assets/images/YaleLab_2019.jpg' | relative_url }}" alt="Royce in the lab at Yale, 2019">
     <a class="cv-button" href="{{ '/assets/files/Yizhi_Luo_CV.pdf' | relative_url }}">Download CV (PDF)</a>
