@@ -8,8 +8,8 @@ wide: true
 ---
 
 <blockquote class="quote-block page-quote">
-  <p class="quote-text">The world-enforced distinction between the practical and the scientific worker is utterly futile, and the whole experience of modern times has demonstrated its utter worthlessness.</p>
-  <footer class="quote-source">— William Barton Rogers, founder and 1st president of MIT</footer>
+  <p class="quote-text">Two things fill the mind with ever new and increasing admiration and awe, the oftener and the more steadily we reflect on them: the starry heavens above and the moral law within.</p>
+  <footer class="quote-source">— Immanuel Kant, Critique of Practical Reason, 1788.</footer>
 </blockquote>
 
 <div class="scholar-sections">
