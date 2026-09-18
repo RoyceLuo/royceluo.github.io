@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Home
+layout: home
+title: About
 description: About Royce Luo
 ---
 
