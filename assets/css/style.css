@@ -221,36 +221,44 @@ a:hover { text-decoration: underline; }
   display: block;
 }
 
-.hero-quote {
+.quote-block {
   max-width: 42ch;
   margin: 0 auto;
-  padding: 1.75rem 2rem;
-  background: rgba(247, 236, 221, 0.08);
-  border: 1px solid rgba(247, 236, 221, 0.25);
-  border-radius: 12px;
   text-align: center;
 }
 
-.hero-quote-text {
+.quote-text {
   font-family: var(--font-serif);
   font-style: italic;
   font-size: 1.3rem;
-  color: #f7ecdd;
+  color: var(--color-text);
   margin: 0;
 }
 
-.hero-quote-text::before {
+.quote-text::before {
   content: "\201C";
 }
 
-.hero-quote-text::after {
+.quote-text::after {
   content: "\201D";
 }
 
-.hero-quote-source {
+.quote-source {
   margin-top: 0.75rem;
   font-size: 0.95rem;
+  color: var(--color-muted);
+}
+
+.hero-section .quote-text {
+  color: #f7ecdd;
+}
+
+.hero-section .quote-source {
   color: #d8c3ab;
+}
+
+.page-quote {
+  margin-bottom: 2.5rem;
 }
 
 .about-section {
@@ -491,7 +499,7 @@ a:hover { text-decoration: underline; }
     aspect-ratio: 1;
   }
 
-  .hero-quote {
+  .quote-block {
     max-width: none;
   }
 }

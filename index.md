@@ -11,9 +11,9 @@ description: About Royce Luo
         <span class="hero-name-cn">罗逸芝</span>
         <span class="hero-name-en">Royce Y. Luo</span>
       </h1>
-      <blockquote class="hero-quote">
-        <p class="hero-quote-text">Purity of heart is to will one thing!</p>
-        <footer class="hero-quote-source">— Add source here</footer>
+      <blockquote class="quote-block">
+        <p class="quote-text">Purity of heart is to will one thing!</p>
+        <footer class="quote-source">— Søren Kierkegaard</footer>
       </blockquote>
     </div>
     <div class="hero-photo">

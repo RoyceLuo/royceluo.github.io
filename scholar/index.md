@@ -7,6 +7,11 @@ hide_title: true
 wide: true
 ---
 
+<blockquote class="quote-block page-quote">
+  <p class="quote-text">Your favorite quote goes here.</p>
+  <footer class="quote-source">— Add source here</footer>
+</blockquote>
+
 <div class="scholar-sections">
 
 <div class="scholar-section" markdown="1">
