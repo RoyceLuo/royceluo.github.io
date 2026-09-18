@@ -30,6 +30,13 @@ Your writing here.
 
 It shows up on the [Blog](blog/index.md) page automatically, newest first, and gets its own sidebar TOC from its `##`/`###` headings.
 
+**Adding your photo to the About page:**
+Put the image file in `assets/images/` (create the folder), then in [`index.md`](index.md) replace the `<!-- ... -->` comment inside `.hero-photo` with:
+
+```html
+<img src="{{ '/assets/images/your-photo.jpg' | relative_url }}" alt="Royce Luo">
+```
+
 ## Structure
 
 - `_config.yml` — site title, description, URL

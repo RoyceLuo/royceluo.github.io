@@ -1,10 +1,12 @@
 :root {
-  --color-bg: #ffffff;
-  --color-text: #1f2328;
-  --color-muted: #6b7280;
-  --color-border: #e5e7eb;
-  --color-accent: #2563eb;
-  --color-accent-soft: #eef2ff;
+  --color-bg: #f7f0e0;
+  --color-card-bg: #fbf7ec;
+  --color-text: #3d2b1f;
+  --color-muted: #69594e;
+  --color-border: #e3d8c3;
+  --color-accent: #4e6e58;
+  --color-accent-soft: #e3ecdf;
+  --color-accent-2: #c89090;
   --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --content-max-width: 720px;
   --sidebar-width: 220px;
@@ -12,12 +14,14 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --color-bg: #0f1115;
-    --color-text: #e5e7eb;
-    --color-muted: #9aa4b2;
-    --color-border: #262a33;
-    --color-accent: #60a5fa;
-    --color-accent-soft: #16202f;
+    --color-bg: #211a14;
+    --color-card-bg: #2a2119;
+    --color-text: #f1e9da;
+    --color-muted: #b9ab97;
+    --color-border: #3a2f24;
+    --color-accent: #8fb89c;
+    --color-accent-soft: #2e362f;
+    --color-accent-2: #d9a9a9;
   }
 }
 
@@ -160,6 +164,80 @@ a:hover { text-decoration: underline; }
   padding-top: 0;
 }
 
+/* Hero intro + card sections (used on the About page) */
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+}
+
+.hero-eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--color-accent);
+  margin: 0 0 0.5rem;
+}
+
+.hero-name {
+  font-size: 2.5rem;
+  line-height: 1.1;
+  margin: 0 0 0.75rem;
+}
+
+.hero-tagline {
+  font-size: 1.1rem;
+  color: var(--color-muted);
+  max-width: 42ch;
+  margin: 0;
+}
+
+.hero-photo {
+  width: 160px;
+  height: 160px;
+  flex-shrink: 0;
+  border-radius: 50%;
+  background: var(--color-accent-soft);
+  border: 2px solid var(--color-border);
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-muted);
+  font-size: 0.8rem;
+  text-align: center;
+  padding: 0.5rem;
+}
+
+.hero-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.info-card {
+  background: var(--color-card-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  padding: 1.5rem 1.75rem;
+  margin: 1.5rem 0;
+}
+
+.info-card h2 {
+  border-top: none;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.info-card:first-of-type {
+  margin-top: 2rem;
+}
+
 .page-content h3 {
   font-size: 1.1rem;
   margin-top: 1.75rem;
@@ -244,5 +322,14 @@ a:hover { text-decoration: underline; }
   .toc-link.active {
     border-left: none;
     text-decoration: underline;
+  }
+
+  .hero {
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+
+  .hero-tagline {
+    max-width: none;
   }
 }

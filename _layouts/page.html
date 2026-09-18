@@ -10,7 +10,7 @@ layout: default
   </aside>
 
   <main class="page-content" id="page-content">
-    <h1>{{ page.title }}</h1>
+    {% unless page.hide_title %}<h1>{{ page.title }}</h1>{% endunless %}
     {{ content }}
   </main>
 </div>
