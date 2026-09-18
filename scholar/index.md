@@ -30,9 +30,9 @@ I study quantum acoustics and optomechanics — building high-coherence phononic
   <div class="education-list" markdown="1">
 
 - **Postdoc**, Applied Physics, Stanford University, 2025–present — Advisor: Amir Safavi-Naeini
-- **Ph.D.**, Applied Physics, Yale University, 2017–2025 — *High-coherence phononic resonator for quantum acoustic applications*, Advisor: Peter T. Rakich
-- **M.Sc.**, Chemistry, University of Tokyo, 2015–2017 — *Rapid-scan Fourier-Transform coherent anti-Stokes Raman scattering spectroscopy*, Advisor: Keisuke Goda
-- **B.S.**, Optical Engineering, Zhejiang University, 2011–2015 — *Upconversional photoluminescence of CdSe/CdS core-shell colloidal quantum dots*, Advisor: Xiaogang Peng
+- **Ph.D.**, Applied Physics, Yale University, 2017–2025, Advisor: Peter T. Rakich
+- **M.Sc.**, Chemistry, University of Tokyo, 2015–2017, Advisor: Keisuke Goda
+- **B.S.**, Optical Engineering, Zhejiang University, 2011–2015, Advisor: Xiaogang Peng
 
   </div>
   <div class="education-media">
