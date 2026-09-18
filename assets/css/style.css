@@ -213,7 +213,7 @@ a:hover { text-decoration: underline; }
   display: block;
   font-family: "Liu Jian Mao Cao", cursive;
   font-weight: normal;
-  color: #d9a9a9;
+  color: var(--color-accent);
   margin-bottom: 0.15em;
 }
 
@@ -225,6 +225,10 @@ a:hover { text-decoration: underline; }
   max-width: 42ch;
   margin: 0 auto;
   text-align: center;
+}
+
+.hero-section .quote-block {
+  margin-top: 3rem;
 }
 
 .quote-text {
