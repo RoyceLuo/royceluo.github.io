@@ -22,7 +22,9 @@ I study quantum acoustics and optomechanics — building high-coherence phononic
 
 <div class="research-grid">
   <div class="research-card">
-    <div class="research-card-image">Figure placeholder</div>
+    <div class="research-card-image">
+      <img src="{{ '/assets/images/DanBoating_2023.jpeg' | relative_url }}" alt="Royce Luo">
+    </div>
     <div class="research-card-content">
       <h3>Project title</h3>
       <p>Add a short description or figure caption here.</p>
@@ -30,7 +32,9 @@ I study quantum acoustics and optomechanics — building high-coherence phononic
     </div>
   </div>
   <div class="research-card">
-    <div class="research-card-image">Figure placeholder</div>
+    <div class="research-card-image">
+      <img src="{{ '/assets/images/DanBoating_2023.jpeg' | relative_url }}" alt="Royce Luo">
+    </div>
     <div class="research-card-content">
       <h3>Project title</h3>
       <p>Add a short description or figure caption here.</p>
