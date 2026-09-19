@@ -618,6 +618,17 @@ a:hover { text-decoration: underline; }
   flex-wrap: wrap;
 }
 
+.contact-map {
+  margin-top: 3rem;
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.contact-map iframe {
+  display: block;
+}
+
 .contact-info {
   flex: 1 1 320px;
 }

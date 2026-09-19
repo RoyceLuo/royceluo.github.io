@@ -11,7 +11,7 @@ permalink: /contact/
 
 ## Contact
 
-**Address**
+**Royce Luo**
 
 Department of Applied Physics, 
 Stanford University
@@ -46,5 +46,17 @@ Email to: [luoyizhi2013@outlook.com](mailto:luoyizhi2013@outlook.com)
         <button type="submit" class="cv-button contact-submit">Send</button>
       </form>
     </div>
+  </div>
+
+  <div class="contact-map">
+    <iframe
+      src="https://maps.google.com/maps?q=348+Via+Pueblo,+Stanford,+CA+94305&output=embed"
+      width="100%"
+      height="320"
+      style="border:0"
+      loading="lazy"
+      referrerpolicy="no-referrer-when-downgrade"
+      title="Map of 348 Via Pueblo, Stanford, CA">
+    </iframe>
   </div>
 </div>
