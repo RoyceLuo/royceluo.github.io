@@ -9,4 +9,4 @@ In the past few months, AI has raised a lot of concerns in the mathematics commu
 
 ## OpenAI's announcement
 
-A sentence or two on the kinds of things you'll post.
+TBD
