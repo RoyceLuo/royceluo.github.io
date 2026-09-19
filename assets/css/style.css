@@ -668,9 +668,11 @@ a:hover { text-decoration: underline; }
 }
 
 .social-links {
+  grid-column: 1;
+  grid-row: 2;
   display: flex;
+  align-items: center;
   gap: 0.75rem;
-  margin-top: 1rem;
 }
 
 .social-icon {
@@ -799,6 +801,7 @@ a:hover { text-decoration: underline; }
   }
 
   .contact-info,
+  .social-links,
   .contact-fields,
   .contact-actions {
     grid-column: 1;
