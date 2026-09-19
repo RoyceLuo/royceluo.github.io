@@ -12,13 +12,9 @@ permalink: /contact/
 ## Contact
 
 Department of Applied Physics, 
-
 Stanford University
-
 Spilker 333, 348 Via Pueblo, 
-
 Stanford, CA 94305, USA
-
 Email to: [luoyizhi2013@outlook.com](mailto:luoyizhi2013@outlook.com)
 
 <div class="contact-map">
