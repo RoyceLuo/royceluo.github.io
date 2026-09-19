@@ -23,22 +23,22 @@ I study quantum acoustics and optomechanics — building high-coherence phononic
 <div class="research-grid">
   <div class="research-card">
     <div class="research-card-image">
-      <img src="{{ '/assets/images/DanBoating_2023.jpeg' | relative_url }}" alt="Royce Luo">
+      <img src="{{ '/assets/images/quantum-hybrid-systems.svg' | relative_url }}" alt="Diagram of a superconducting qubit coupled to a phonon mode and a photon mode">
     </div>
     <div class="research-card-content">
-      <h3>Project title</h3>
-      <p>Add a short description or figure caption here.</p>
-      <div class="research-card-tags"><span>tag</span><span>tag</span></div>
+      <h3>Quantum Hybrid Systems</h3>
+      <p>Coupling mechanical, electromagnetic, and superconducting degrees of freedom into a single hybrid platform — using phonons as a quantum bus to link disparate quantum systems together.</p>
+      <div class="research-card-tags"><span>optomechanics</span><span>superconducting qubits</span></div>
     </div>
   </div>
   <div class="research-card">
     <div class="research-card-image">
-      <img src="{{ '/assets/images/DanBoating_2023.jpeg' | relative_url }}" alt="Royce Luo">
+      <img src="{{ '/assets/images/quantum-materials.svg' | relative_url }}" alt="Diagram of a crystal lattice with a highlighted defect atom">
     </div>
     <div class="research-card-content">
-      <h3>Project title</h3>
-      <p>Add a short description or figure caption here.</p>
-      <div class="research-card-tags"><span>tag</span><span>tag</span></div>
+      <h3>Quantum Materials</h3>
+      <p>Tracking down the atomic-scale defects that limit coherence in phononic and superconducting devices, using material characterization to connect microscopic structure to macroscopic loss.</p>
+      <div class="research-card-tags"><span>materials science</span><span>defect characterization</span></div>
     </div>
   </div>
 </div>

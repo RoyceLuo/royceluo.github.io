@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" role="img" aria-label="Illustration of a crystal lattice with a highlighted defect atom">
+  <rect width="400" height="220" fill="#e3ecdf"/>
+
+  <g stroke="#69594e" stroke-width="1.5">
+    <!-- horizontal bonds, row A1 (y=50) -->
+    <line x1="60" y1="50" x2="120" y2="50"/>
+    <line x1="120" y1="50" x2="180" y2="50"/>
+    <line x1="180" y1="50" x2="240" y2="50"/>
+    <line x1="240" y1="50" x2="300" y2="50"/>
+    <line x1="300" y1="50" x2="360" y2="50"/>
+
+    <!-- horizontal bonds, row B1 (y=95) -->
+    <line x1="90" y1="95" x2="150" y2="95"/>
+    <line x1="150" y1="95" x2="210" y2="95"/>
+    <line x1="210" y1="95" x2="270" y2="95"/>
+    <line x1="270" y1="95" x2="330" y2="95"/>
+
+    <!-- horizontal bonds, row A2 (y=140) -->
+    <line x1="60" y1="140" x2="120" y2="140"/>
+    <line x1="120" y1="140" x2="180" y2="140"/>
+    <line x1="180" y1="140" x2="240" y2="140"/>
+    <line x1="240" y1="140" x2="300" y2="140"/>
+    <line x1="300" y1="140" x2="360" y2="140"/>
+
+    <!-- horizontal bonds, row B2 (y=185) -->
+    <line x1="90" y1="185" x2="150" y2="185"/>
+    <line x1="150" y1="185" x2="210" y2="185"/>
+    <line x1="210" y1="185" x2="270" y2="185"/>
+    <line x1="270" y1="185" x2="330" y2="185"/>
+
+    <!-- diagonal bonds, A1-B1 -->
+    <line x1="90" y1="95" x2="60" y2="50"/>
+    <line x1="90" y1="95" x2="120" y2="50"/>
+    <line x1="150" y1="95" x2="120" y2="50"/>
+    <line x1="150" y1="95" x2="180" y2="50"/>
+    <line x1="210" y1="95" x2="180" y2="50"/>
+    <line x1="210" y1="95" x2="240" y2="50"/>
+    <line x1="270" y1="95" x2="240" y2="50"/>
+    <line x1="270" y1="95" x2="300" y2="50"/>
+    <line x1="330" y1="95" x2="300" y2="50"/>
+    <line x1="330" y1="95" x2="360" y2="50"/>
+
+    <!-- diagonal bonds, B1-A2 -->
+    <line x1="90" y1="95" x2="60" y2="140"/>
+    <line x1="90" y1="95" x2="120" y2="140"/>
+    <line x1="150" y1="95" x2="120" y2="140"/>
+    <line x1="150" y1="95" x2="180" y2="140"/>
+    <line x1="210" y1="95" x2="180" y2="140"/>
+    <line x1="210" y1="95" x2="240" y2="140"/>
+    <line x1="270" y1="95" x2="240" y2="140"/>
+    <line x1="270" y1="95" x2="300" y2="140"/>
+    <line x1="330" y1="95" x2="300" y2="140"/>
+    <line x1="330" y1="95" x2="360" y2="140"/>
+
+    <!-- diagonal bonds, A2-B2 -->
+    <line x1="90" y1="185" x2="60" y2="140"/>
+    <line x1="90" y1="185" x2="120" y2="140"/>
+    <line x1="150" y1="185" x2="120" y2="140"/>
+    <line x1="150" y1="185" x2="180" y2="140"/>
+    <line x1="210" y1="185" x2="180" y2="140"/>
+    <line x1="210" y1="185" x2="240" y2="140"/>
+    <line x1="270" y1="185" x2="240" y2="140"/>
+    <line x1="270" y1="185" x2="300" y2="140"/>
+    <line x1="330" y1="185" x2="300" y2="140"/>
+    <line x1="330" y1="185" x2="360" y2="140"/>
+  </g>
+
+  <g fill="#fbf7ec" stroke="#3d2b1f" stroke-width="2">
+    <circle cx="60" cy="50" r="7"/>
+    <circle cx="120" cy="50" r="7"/>
+    <circle cx="240" cy="50" r="7"/>
+    <circle cx="300" cy="50" r="7"/>
+    <circle cx="360" cy="50" r="7"/>
+    <circle cx="90" cy="95" r="7"/>
+    <circle cx="150" cy="95" r="7"/>
+    <circle cx="210" cy="95" r="7"/>
+    <circle cx="270" cy="95" r="7"/>
+    <circle cx="330" cy="95" r="7"/>
+    <circle cx="60" cy="140" r="7"/>
+    <circle cx="120" cy="140" r="7"/>
+    <circle cx="180" cy="140" r="7"/>
+    <circle cx="240" cy="140" r="7"/>
+    <circle cx="300" cy="140" r="7"/>
+    <circle cx="360" cy="140" r="7"/>
+    <circle cx="90" cy="185" r="7"/>
+    <circle cx="150" cy="185" r="7"/>
+    <circle cx="210" cy="185" r="7"/>
+    <circle cx="270" cy="185" r="7"/>
+    <circle cx="330" cy="185" r="7"/>
+  </g>
+
+  <!-- highlighted defect / dopant atom -->
+  <circle cx="180" cy="50" r="15" fill="#c89090" opacity="0.3"/>
+  <circle cx="180" cy="50" r="9" fill="#c89090" stroke="#3d2b1f" stroke-width="2"/>
+</svg>
