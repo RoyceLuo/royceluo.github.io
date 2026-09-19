@@ -604,6 +604,83 @@ a:hover { text-decoration: underline; }
   padding: 1.5rem;
 }
 
+/* Contact page: two-column info + message form, no sidebar */
+
+.contact-page {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 4rem 1.5rem;
+}
+
+.contact-layout {
+  display: flex;
+  gap: 4rem;
+  flex-wrap: wrap;
+}
+
+.contact-info {
+  flex: 1 1 320px;
+}
+
+.contact-info h2 {
+  margin-top: 0;
+  font-size: 1.8rem;
+}
+
+.contact-form-box {
+  flex: 1 1 360px;
+}
+
+.contact-form-box h2 {
+  margin: 0 0 1.5rem;
+  font-size: 1.8rem;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.form-row {
+  display: flex;
+  gap: 1rem;
+}
+
+.form-field {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 0.4rem;
+  font-size: 0.9rem;
+  color: var(--color-muted);
+}
+
+.form-field input,
+.form-field textarea {
+  padding: 0.65rem 0.85rem;
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  color: var(--color-text);
+  background: var(--color-card-bg);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
+  resize: vertical;
+}
+
+.form-field input:focus,
+.form-field textarea:focus {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 1px;
+}
+
+.contact-submit {
+  align-self: flex-start;
+  font: inherit;
+  border: none;
+  cursor: pointer;
+}
+
 /* Responsive: stack sidebar above content on narrow screens */
 
 @media (max-width: 800px) {
@@ -668,5 +745,10 @@ a:hover { text-decoration: underline; }
 
   .quote-block {
     max-width: none;
+  }
+
+  .contact-layout,
+  .form-row {
+    flex-direction: column;
   }
 }
