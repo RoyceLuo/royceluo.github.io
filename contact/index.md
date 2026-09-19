@@ -11,13 +11,14 @@ permalink: /contact/
 
 ## Contact
 
-**Yizhi Luo (Royce), Ph.D.**
+**Address**
 
-Department of Applied Physics, Stanford University
+Department of Applied Physics, 
+Stanford University
+Spilker 333, 348 Via Pueblo, 
+Stanford, CA 94305, USA
 
-Spilker 333, 348 Via Pueblo, Stanford, CA 94305, USA
-
-[luoyizhi2013@outlook.com](mailto:luoyizhi2013@outlook.com)
+Email to: [luoyizhi2013@outlook.com](mailto:luoyizhi2013@outlook.com)
 
 </div>
 
