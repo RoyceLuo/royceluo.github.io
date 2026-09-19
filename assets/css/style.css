@@ -670,7 +670,7 @@ a:hover { text-decoration: underline; }
 .social-links {
   display: flex;
   gap: 0.75rem;
-  margin-left: auto;
+  margin-top: 1rem;
 }
 
 .social-icon {

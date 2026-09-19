@@ -9,12 +9,12 @@ permalink: /contact/
   <div class="contact-layout">
     <div class="contact-info" markdown="1">
 
-## Contact
+## Address
 
 Department of Applied Physics, 
 Stanford University
 Spilker 333, 348 Via Pueblo, 
-Stanford, CA 94305, USA
+Stanford, CA 94305
 Email to: [luoyizhi2013@outlook.com](mailto:luoyizhi2013@outlook.com)
 
 <div class="contact-map">
@@ -24,6 +24,25 @@ Email to: [luoyizhi2013@outlook.com](mailto:luoyizhi2013@outlook.com)
     referrerpolicy="no-referrer-when-downgrade"
     title="Map of 348 Via Pueblo, Stanford, CA">
   </iframe>
+</div>
+
+<div class="social-links">
+  <a href="https://www.instagram.com/royce.y.luo/" class="social-icon" aria-label="Instagram" target="_blank" rel="noopener">
+    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8">
+      <rect x="3" y="3" width="18" height="18" rx="5"/>
+      <circle cx="12" cy="12" r="4.2"/>
+      <circle cx="17.2" cy="6.8" r="1.1" fill="currentColor" stroke="none"/>
+    </svg>
+  </a>
+  <a href="https://www.linkedin.com/in/yizhi-luo-737b13140/" class="social-icon" aria-label="LinkedIn" target="_blank" rel="noopener">
+    <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8">
+      <rect x="3" y="3" width="18" height="18" rx="5"/>
+      <line x1="7.5" y1="10" x2="7.5" y2="17"/>
+      <circle cx="7.5" cy="6.8" r="1" fill="currentColor" stroke="none"/>
+      <line x1="11" y1="10" x2="11" y2="17"/>
+      <path d="M11,13 a3,3 0 0 1 6,0 v4" fill="none"/>
+    </svg>
+  </a>
 </div>
 
 </div>
@@ -52,24 +71,6 @@ Email to: [luoyizhi2013@outlook.com](mailto:luoyizhi2013@outlook.com)
 
     <div class="contact-actions">
       <button type="submit" form="contact-form" class="cv-button contact-submit">Send</button>
-      <div class="social-links">
-        <a href="#" class="social-icon" aria-label="Instagram" target="_blank" rel="noopener">
-          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8">
-            <rect x="3" y="3" width="18" height="18" rx="5"/>
-            <circle cx="12" cy="12" r="4.2"/>
-            <circle cx="17.2" cy="6.8" r="1.1" fill="currentColor" stroke="none"/>
-          </svg>
-        </a>
-        <a href="#" class="social-icon" aria-label="LinkedIn" target="_blank" rel="noopener">
-          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8">
-            <rect x="3" y="3" width="18" height="18" rx="5"/>
-            <line x1="7.5" y1="10" x2="7.5" y2="17"/>
-            <circle cx="7.5" cy="6.8" r="1" fill="currentColor" stroke="none"/>
-            <line x1="11" y1="10" x2="11" y2="17"/>
-            <path d="M11,13 a3,3 0 0 1 6,0 v4" fill="none"/>
-          </svg>
-        </a>
-      </div>
     </div>
   </div>
 </div>
