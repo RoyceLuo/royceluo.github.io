@@ -20,9 +20,23 @@ wide: true
 
 I study quantum acoustics and optomechanics — building high-coherence phononic resonators and exploring their interaction with superconducting qubits and light.
 
-<div class="plate-grid">
-  <div class="plate">Figure + caption placeholder</div>
-  <div class="plate">Figure + caption placeholder</div>
+<div class="research-grid">
+  <div class="research-card">
+    <div class="research-card-image">Figure placeholder</div>
+    <div class="research-card-content">
+      <h3>Project title</h3>
+      <p>Add a short description or figure caption here.</p>
+      <div class="research-card-tags"><span>tag</span><span>tag</span></div>
+    </div>
+  </div>
+  <div class="research-card">
+    <div class="research-card-image">Figure placeholder</div>
+    <div class="research-card-content">
+      <h3>Project title</h3>
+      <p>Add a short description or figure caption here.</p>
+      <div class="research-card-tags"><span>tag</span><span>tag</span></div>
+    </div>
+  </div>
 </div>
 
 </div>
