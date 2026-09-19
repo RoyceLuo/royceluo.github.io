@@ -70,7 +70,7 @@ I study quantum acoustics and optomechanics — building high-coherence phononic
 
 <div class="scholar-section" markdown="1">
 
-## Publications <a href="https://scholar.google.com/citations" class="social-icon heading-icon" aria-label="Google Scholar profile" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 3 L22 8 L12 13 L2 8 Z" stroke-linejoin="round"/><path d="M6 10.5 V15 C6 17 9 18.5 12 18.5 C15 18.5 18 17 18 15 V10.5"/><line x1="19" y1="9" x2="19" y2="15"/><circle cx="19" cy="16" r="0.9" fill="currentColor" stroke="none"/></svg></a>
+## Publications <a href="https://scholar.google.com/citations?user=bN7QYmIAAAAJ&hl=en&oi=ao" class="social-icon heading-icon" aria-label="Google Scholar profile" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 3 L22 8 L12 13 L2 8 Z" stroke-linejoin="round"/><path d="M6 10.5 V15 C6 17 9 18.5 12 18.5 C15 18.5 18 17 18 15 V10.5"/><line x1="19" y1="9" x2="19" y2="15"/><circle cx="19" cy="16" r="0.9" fill="currentColor" stroke="none"/></svg></a>
 
 ### Journal Articles
 
